@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 #mis gemas
 gem 'haml-rails'
+gem 'devise', github: "plataformatec/devise"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
